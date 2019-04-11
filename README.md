@@ -1,1 +1,2 @@
 # DailyReportApplication
+冷静に考えたらそんなに欲しくないから廃止
